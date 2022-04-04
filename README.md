@@ -2,12 +2,6 @@
 
 **Semana 2 – Resolução de Problemas/Lógica aplicada e JavaScript (sintaxe básica)**
 
-- Tipos de dados
-- Variáveis
-- Operadores
-
-
-
 Desafios:
 
 ```
