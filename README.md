@@ -2,6 +2,13 @@
 
 **Semana 2 – Resolução de Problemas/Lógica aplicada e JavaScript (sintaxe básica)**
 
+O que aprendi?
+
+- Instalação do NodeJS
+- Primeiros passos com JS
+- Tipos de Dados, Variáveis, Operadores
+- Lógica de Programação (Sintaxe, Prática, Exercícios)
+
 Desafios:
 
 ```
