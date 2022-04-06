@@ -5,4 +5,4 @@ let valorMercadoria = 3000
 let desconto = valorMercadoria * 0.20
 let valorComDesconto = (valorMercadoria - desconto)
 
-console.log(`Você ganhou ${desconto} reais de desconto. Preço final: ${valorComDesconto}`)
+console.log(`Você ganhou ${desconto} reais de desconto e o preço a pagar é ${valorComDesconto} reais.`)

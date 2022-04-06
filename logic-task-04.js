@@ -10,4 +10,4 @@ let dayValue = 60
 
 let finalPrice = (days * dayValue) + (kms * kmValue)
 
-console.log(finalPrice)
+console.log(`O valor a pagar é ${finalPrice} reais.`)

@@ -5,4 +5,4 @@ let num2 = 400
 let num3 = 1000
 let soma = (num1 + num2 + num3)
 let media = soma / 3
-console.log(`Resultado da média: ${media}`)
+console.log(`Resultado da média: ${media}.`)
