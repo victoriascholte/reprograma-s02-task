@@ -2,7 +2,8 @@
 // Exiba no console o valor do desconto e o preço a pagar.
 
 let valorMercadoria = 3000
-let desconto = valorMercadoria * 0.20
+let percentualDesconto = (25/100)
+let desconto = valorMercadoria * percentualDesconto
 let valorComDesconto = (valorMercadoria - desconto)
 
 console.log(`Você ganhou ${desconto} reais de desconto e o preço a pagar é ${valorComDesconto} reais.`)
